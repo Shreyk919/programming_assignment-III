@@ -1,4 +1,4 @@
-//Recursive solution to find the element at the last index of a list
+//Recursive solution to find the element at the last index of a list.
 
 class last_element {
 
